@@ -12331,8 +12331,6 @@ c_francisco_aniceto_lugo_adj;Franciscan;;;;;;;;;;;;;x
 c_francisco_aniceto_lugo;Francisco Aniceto Lugo;;;;;;;;;;;;;x
 c_franklin_adj;Franklin;;;;;;;;;;;;;x
 c_franklin;Franklin;;;;;;;;;;;;;x
-c_robson_adj;Robsonite;;;;;;;;;;;;;x
-c_Robson;Robson;;;;;;;;;;;;;x
 c_frederick_adj;Frederician;;;;;;;;;;;;;x
 c_frederick;Frederick;;;;;;;;;;;;;x
 c_freeborn_adj;Freebornian;;;;;;;;;;;;;x
@@ -13484,6 +13482,8 @@ c_roanoke_adj;Roanoker;;;;;;;;;;;;;x
 c_roanoke;Roanoke;;;;;;;;;;;;;x
 c_roanoke_rapids_adj;Roanoke Rapidan;;;;;;;;;;;;;x
 c_roanoke_rapids;Roanoke;;;;;;;;;;;;;x
+c_robson_adj;Robsonite;;;;;;;;;;;;;x
+c_Robson;Robson;;;;;;;;;;;;;x
 c_roch_adj;Rochard;;;;;;;;;;;;;x
 c_roch;Roch;;;;;;;;;;;;;x
 c_rochester_adj;Rocastrian;;;;;;;;;;;;;x
